@@ -1,5 +1,8 @@
 # Web3 DeFi
 
+Ethereum Beginner Tutorial
+https://github.com/companyakis/ethereum-101
+
 Ethereum BootCamp
 https://github.com/companyakis/ethereum-dev-bootcamp
 
