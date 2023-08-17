@@ -3,6 +3,9 @@
 Ethereum Beginner Tutorial
 https://github.com/companyakis/ethereum-101
 
+Move Language Tutorial
+https://github.com/companyakis/move-tutorial
+
 Ethereum BootCamp
 https://github.com/companyakis/ethereum-dev-bootcamp
 
