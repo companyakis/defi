@@ -3,9 +3,6 @@
 Ethereum Beginner Tutorial
 https://github.com/companyakis/ethereum-101
 
-Go Language Tutorial
-https://github.com/companyakis/go-tutorial
-
 Ethereum BootCamp
 https://github.com/companyakis/ethereum-dev-bootcamp
 
